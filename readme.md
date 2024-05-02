@@ -56,7 +56,7 @@ Lets say we have two branches A and B, and we want to add the content of B into 
  when a new feature s added to an application, it is often done in a feature branch.Usually this feature branch is deleted when the code must have tested and merged into a staging or dev environment
  depending on the branch stategy of the team. git branch can be delete with the command _`git branch -d main`_
  To double-check if the branch have been deleted, you can use the command _`git_branch`_.
- ![`git_delete](./git_delete.png)
+ ![`git_delete](./git_delete.png)  
  
 
 
